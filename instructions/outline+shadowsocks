@@ -1,0 +1,15 @@
+outline 服务器链接:
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxemh0ekN4Njh4Zks=@35.166.192.215:65157/?outline=1
+
+shadowsocks:节点信息
+
+IP(地址): 
+    35.166.192.215
+Port(端口号):
+    65157
+Password(密码):
+    1zhtzCx68xfK
+Method(加密方法):
+    chacha20-ietf-poly1305
+
