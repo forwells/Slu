@@ -38,3 +38,11 @@ Mac用户的使用方法
 
 链接地址:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxemh0ekN4Njh4Zks=@35.166.192.215:65157/?outline=1
+
+
+另外使用SSR(shadowsocksR或者Shadowsocks)的同事:
+
+查看下载文件中的 <kbd>resource</kbd> 文件夹, ssr开头的二维码图片是SSR节点,扫描可用
+
+SSR节点二维码数量3
+SS节点数量1
